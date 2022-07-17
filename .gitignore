@@ -5,6 +5,7 @@
 *.factorypath
 *.project
 /settings/
+.idea/
 
 *.settings/
 # Log file
